@@ -9,7 +9,7 @@ Este site pretende ser um ponto de encontro, discussão e aprendizagem para todo
 
 Este site está mantido por voluntários interessados no tema, não é patrocinado por nenhuma entidade ou empresa. A ideia é permitir que as pessoas interessadas possam aprender sobre o tema uma com a outra, e promover discussões horizontais, genéricas sobre o tema do BIM, que não estejam atreladas a um software particular. Em outras palavras, uma versão brasileira do [osarch.org](https://community.osarch.org/).
 
-A casa é sua, fique a vontade para participar, acrescentar ideias e conteúdo, ou simplesmente usar este lugar para tirar dúvidas. Todos os arquivos deste site estão livres também e podem ser editados no Github. Este site começou como um forum, mas resolvi tornar ele um site estático por cause da baixa participação.
+A casa é sua, fique a vontade para participar, acrescentar ideias e conteúdo, ou simplesmente usar este lugar para tirar dúvidas. Todos os arquivos deste site estão livres também e podem ser editados no [Github](https://github.com/yorikvanhavre/BIMLivre). Este site começou como um forum, mas resolvi tornar ele um site estático por cause da baixa participação.
 
 #### Conteúdo
 

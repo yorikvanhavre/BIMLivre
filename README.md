@@ -15,13 +15,13 @@ A casa é sua, fique a vontade para participar, acrescentar ideias e conteúdo, 
 
 * [Lista de software livre para BIM e CAD](#lista-de-software-livre-para-bim-e-cad)
 
-* [Material sobre o FreeCAD em português](#material-sobre-o-freecad-em-portugues)
+* [Material sobre o FreeCAD em português](#material-sobre-o-freecad-em-português)
 
-* [Material sobre o BlenderBIM em português](#material-sobre-o-blenderbim-em-portugues)
+* [Material sobre o BlenderBIM em português](#material-sobre-o-blenderbim-em-português)
 
-* [Material sobre o BIM em geral em português](#material-sobre-o-bim-em-geral-em-portugues)
+* [Material sobre o BIM em geral em português](#material-sobre-o-bim-em-geral-em-português)
 
-* [O que é software livre?](#o-que-e-software-livre)
+* [O que é software livre?](#o-que-é-software-livre)
 
 ## Lista de software livre para BIM e CAD
 

@@ -3,4 +3,5 @@
 
 @import "{{ site.theme }}";
 
-th { display: none; }
+body p { text-align: justify }
+table th { display: none; }

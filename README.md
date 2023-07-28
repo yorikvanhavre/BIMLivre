@@ -1,7 +1,7 @@
-# BIM Livre
-
+|     |     |
+| --- | --- |
 | [![](images/freecad_banner.jpg)](https://freecad.org) | [![](images/blenderbim_banner.jpg)](https://blenderbim.org) |
-| ----------------------------------------------------- | ----------------------------------------------------------- |
+
 
 ## Boas vindas!
 
@@ -31,59 +31,59 @@ Para discutir softwares específicos, por favor crie uma outra discussão para m
 
 ### Desenho CAD (2D)
 
-|                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](images/Caduntu_1.jpg)](https://librecad.org)                             | [LibreCAD](https://librecad.org) foi originalmente um *fork* do QCAD, que depois evoluiu e virou um aplicativo bem diferente, mas continua focada no desenho 2D. A versão 3.0 inclui um suporte experimental ao formato DWG.<br/> **Software em português**                                                                                                                                    |
-| [![](images/qcad3_windows.png)](https://qcad.org)                             | [QCAD](https://qcad.org) é um aplicativo de desenho 2D, com todos os recursos geralmente encontrados em aplicativos CAD tradicionais. A versão de base é open-source e suporta o formato DXF apenas. Existe uma versão paga que acrescenta o suporte ao formato DWG à versão de base.<br/> **Software em português**                                                                           |
+|     |     |
+| --- | --- | 
+| [![](images/Caduntu_1.jpg)](https://librecad.org) | [LibreCAD](https://librecad.org) foi originalmente um *fork* do QCAD, que depois evoluiu e virou um aplicativo bem diferente, mas continua focada no desenho 2D. A versão 3.0 inclui um suporte experimental ao formato DWG.<br/> **Software em português** |
+| [![](images/qcad3_windows.png)](https://qcad.org) | [QCAD](https://qcad.org) é um aplicativo de desenho 2D, com todos os recursos geralmente encontrados em aplicativos CAD tradicionais. A versão de base é open-source e suporta o formato DXF apenas. Existe uma versão paga que acrescenta o suporte ao formato DWG à versão de base.<br/> **Software em português** |
 | [![](images/freecad-para-bim-1-alt.jpg)](https://www.freecad.org/?lang=pt_BR) | [FreeCAD](https://www.freecad.org/?lang=pt_BR), apesar de ser principalmente um aplicativo para modelagem 3D e BIM, possui também uma extensa bancada de ferramentas para desenho 2D, podendo ser usado como uma plataforma CAD tradicional. Ele importa e exporta para os formatos DXF e DWG (este último usando um conversor externo).<br/>**Software em português** + **Site em português** |
-| [![](images/screenshot.png)](https://github.com/zecruel/CadZinho)             | [CadZinho](https://github.com/zecruel/CadZinho) é um aplicativo de desenho CAD 2D similar ao LibreCAD. É bastante minimalista e extensível via a linguagem Lua.                                                                                                                                                                                                                                |
+| [![](images/screenshot.png)](https://github.com/zecruel/CadZinho) | [CadZinho](https://github.com/zecruel/CadZinho) é um aplicativo de desenho CAD 2D similar ao LibreCAD. É bastante minimalista e extensível via a linguagem Lua. |
 
 ### Modelagem BIM (3D)
 
-|                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     |     |
+| --- | --- | 
 | [![](images/freecad-bim-5.jpg)](https://www.freecad.org/?lang=pt_BR) | [FreeCAD](https://www.freecad.org/?lang=pt_BR) é um modelador 3D paramétrico de código aberto feito principalmente para projetar objetos da vida real de qualquer tamanho. A modelagem paramétrica permite que você modifique facilmente seu design, voltando para o histórico do modelo e alterando seus parâmetros. O FreeCAD é um modelador genérico, mas possui uma bancada específica para BIM com excelente compatibilidade com o formato IFC. <br/>**Software em português** + **Site em português** |
-| [![](images/n6605il2jrrd.png)](https://blenderbim.org)               | [BlenderBIM](https://blenderbim.org) é um plug-in para o [Blender](https://blender.org), um aplicativo de modelagem 3D conhecido, baseado em malhas. O BlenderBIM traz ferramentas e funcionalidade BIM no Blender, com forte enfoque no formato IFC. O BlenderBIM inclui muitas ferramentas e utilitários para trabalhar com arquivos IFC nativamente.                                                                                                                                                     |
-| [![](images/Screenshot_9_MiamiVilla_Notn.jpg)](https://blender.org)  | [Blender](https://blender.org), mesmo usado sem o plug-in [BlenderBIM](https://blenderbim.org), é uma poderosa plataforma de modelagem 3D. Possuí inclusive outros plug-ins úteis para a modelagem de prédios e outras obras de construção, como o [ArchiPack](https://blender-archipack.org/). Modelos elaborados com o Blender podem ser facilmente usados em âmbito BIM, por exemplo acrescentando informações adicionais neles com o BlenderBIM ou o FreeCAD. <br/>**Software em português**            |
+| [![](images/n6605il2jrrd.png)](https://blenderbim.org) | [BlenderBIM](https://blenderbim.org) é um plug-in para o [Blender](https://blender.org), um aplicativo de modelagem 3D conhecido, baseado em malhas. O BlenderBIM traz ferramentas e funcionalidade BIM no Blender, com forte enfoque no formato IFC. O BlenderBIM inclui muitas ferramentas e utilitários para trabalhar com arquivos IFC nativamente. |
+| [![](images/Screenshot_9_MiamiVilla_Notn.jpg)](https://blender.org)  | [Blender](https://blender.org), mesmo usado sem o plug-in [BlenderBIM](https://blenderbim.org), é uma poderosa plataforma de modelagem 3D. Possuí inclusive outros plug-ins úteis para a modelagem de prédios e outras obras de construção, como o [ArchiPack](https://blender-archipack.org/). Modelos elaborados com o Blender podem ser facilmente usados em âmbito BIM, por exemplo acrescentando informações adicionais neles com o BlenderBIM ou o FreeCAD. <br/>**Software em português** |
 
 ### Office
 
-|                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     |     |
+| --- | --- | 
 | [![](images/libreoffice-5-1-4-office-suite-now-available-for-download-with-over-130-bugfixes-505582-2.jpg)](https://pt-br.libreoffice.org/) | [LibreOffice](https://pt-br.libreoffice.org/) é uma suíte office similar e totalmente compatível com a suíte Office da Microsoft. Possuí módulo de edição de textos, planilha e apresentação compatíveis com os formatos da Microsoft (docx, xlsx, pptx) e uma interface muito fácil.<br/> **Software em português** + **Site em português** |
 
 ### GIS
 
-|                                                                |                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     |     |
+| --- | --- | 
 | [![](images/italy_vicenza2.png)](https://qgis.org/pt_BR/site/) | [QGIS](https://qgis.org/pt_BR/site/) é uma plataforma completa para trabalhar com informações geoespaciais. Com o QGIS é possível obter, tratar, converter, produzir dados e mapas em uma interface pr´tica e bem desenvolvida. <br/>**Software em português** + **Site em português** |
 
 ### Análise estrutural
 
-|                                                            |                                                                                                                                                                                                                                                                                  |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     |     |
+| --- | --- | 
 | [![](images/ExampleTUBA2.png)](https://www.code-aster.org) | [CodeAster](https://www.code-aster.org) oferece uma gama completa de métodos de modelagem e análise multifísica que vão muito além das funções padrão de um código de cálculo termomecânico: de análise sísmica a meios porosos via acústica, fadiga, dinâmica estocástica, etc. |
 
 ### Análise energética
 
-|                                                                |                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     |     |
+| --- | --- | 
 | [![](images/Lesson%201.png)](https://openstudiocoalition.org/) | [OpenStudio](https://openstudiocoalition.org/) é um aplicativo para fazer análises e simulações de desempenho energético a partir de um modelo BIM. Suporta os formatos IFC e GbXML. É um aplicativo complexo mas poderoso. Internamente, usa o [EnergyPlus](https://energyplus.net/). |
 
 ### Edição de arquivos PDF
 
-|                                                                             |                                                                                                                                                                                                                                                                                                                                                  |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![](images/ci0xvxrpbo8d.png)](https://pt-br.libreoffice.org/)              | [LibreOffice Draw](https://pt-br.libreoffice.org/) é o módulo de desenho vetorial do LibreOffice. É uma excelente ferramenta para editar e anotar PDFs. Os textos, especificamente, são geralmente muito bem suportados.<br/>**Software em português** + **Site em português**                                                                   |
+|     |     |
+| --- | --- | 
+| [![](images/ci0xvxrpbo8d.png)](https://pt-br.libreoffice.org/) | [LibreOffice Draw](https://pt-br.libreoffice.org/) é o módulo de desenho vetorial do LibreOffice. É uma excelente ferramenta para editar e anotar PDFs. Os textos, especificamente, são geralmente muito bem suportados.<br/>**Software em português** + **Site em português** |
 | [![](images/Acad-plugin.PNG)](https://inkscape.org/pt-br/?switchlang=pt-br) | [Inkscape](https://inkscape.org/pt-br/?switchlang=pt-br) é um aplicativo de desenho vetorial baseado no formato SVG. Também abre e salva no formato PDF com facilidade e tem ferramentas mais parecidas com softwares CAD, o que permite fazer várias alterações simples em arquivos PDF. <br/>**Software em português** + **Site em português** |
 
 ### Visualização de arquivos IFC
 
-|                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![](images/ifcplusplus.png)](http://www.ifcquery.com/)                                | [IFC++](http://www.ifcquery.com/) é um <br>aplicativo simples para Windows e Linux que permite visualizar arquivos IFC e examinar o conteúdo. Não permite editar ou modificar o conteúdo do arquivo, mas é muito rápido e permite rapidamente detetar erros.                                                                                                                   |
-| [![](images/7jm6cjmlx7wo.png)](http://viewer.ifcopenshell.org/)                        | [IfcOpenShell viewer](http://viewer.ifcopenshell.org/) é um componente online (funciona dentro do navegador) do [IfcOpenShell](http://ifcopenshell.org/), que é o software responsável por importar e exporter arquivos IFC usado por ambos o FreeCAD e o BlenderBIM. O viewer permite carregar um arquivo IFC, visualizar a estrutura e o conteúdo, e obter vistas em planta. |
-| [![](images/ifcjs-1536x791.jpg)](https://ifcjs.github.io/web-ifc-viewer/example/index) | [ifc.js viewer](https://ifcjs.github.io/web-ifc-viewer/example/index) é um visualizador simples construído com a plataforma [ifc.js](https://github.com/agviegas/IFC.js) e que funciona dentro do navegador. A página do projeto explica como construir seu visualizador próprio de maneira muito simples.                                                                     |
+|     |     |
+| --- | --- | 
+| [![](images/ifcplusplus.png)](http://www.ifcquery.com/) | [IFC++](http://www.ifcquery.com/) é um <br>aplicativo simples para Windows e Linux que permite visualizar arquivos IFC e examinar o conteúdo. Não permite editar ou modificar o conteúdo do arquivo, mas é muito rápido e permite rapidamente detetar erros. |
+| [![](images/7jm6cjmlx7wo.png)](http://viewer.ifcopenshell.org/) | [IfcOpenShell viewer](http://viewer.ifcopenshell.org/) é um componente online (funciona dentro do navegador) do [IfcOpenShell](http://ifcopenshell.org/), que é o software responsável por importar e exporter arquivos IFC usado por ambos o FreeCAD e o BlenderBIM. O viewer permite carregar um arquivo IFC, visualizar a estrutura e o conteúdo, e obter vistas em planta. |
+| [![](images/ifcjs-1536x791.jpg)](https://ifcjs.github.io/web-ifc-viewer/example/index) | [ifc.js viewer](https://ifcjs.github.io/web-ifc-viewer/example/index) é um visualizador simples construído com a plataforma [ifc.js](https://github.com/agviegas/IFC.js) e que funciona dentro do navegador. A página do projeto explica como construir seu visualizador próprio de maneira muito simples. |
 
 ## Material sobre o FreeCAD em português
 
